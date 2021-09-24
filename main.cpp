@@ -1,5 +1,3 @@
-// Contestant ID
-
 #include <iostream>
 using namespace std;
 
